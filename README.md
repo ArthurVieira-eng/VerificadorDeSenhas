@@ -1,4 +1,5 @@
-🔐 Validador de Senha - Node.js
+🔐 Validador de Senha - Node.js 
+
 Descrição:
 O Validador de Senha é uma aplicação simples desenvolvida com Node.js para validar senhas com base em critérios de segurança. O programa solicita ao usuário que digite uma senha e verifica se ela atende aos requisitos mínimos: comprimento, presença de letras maiúsculas, minúsculas, números e caracteres especiais. Ele fornece um feedback detalhado caso algum critério não seja atendido.
 
